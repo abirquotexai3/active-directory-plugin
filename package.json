@@ -1,0 +1,19 @@
+{
+  "name": "active-directory-jenkins-plugin",
+  "version": "2.41.0",
+  "description": "Jenkins Active Directory authentication plugin",
+  "main": "index.js",
+  "scripts": {
+    "install": "echo 'This is a Maven-based Jenkins plugin - use Maven commands'",
+    "build": "echo 'Run: mvn clean package'",
+    "test": "echo 'Run: mvn test'",
+    "serve": "echo 'Jenkins plugin development - use: mvn hpi:run'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jenkinsci/active-directory-plugin"
+  },
+  "author": "Jenkins Community",
+  "license": "MIT",
+  "devDependencies": {}
+}
